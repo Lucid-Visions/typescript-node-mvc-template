@@ -1,0 +1,11 @@
+# typescript-node-mvc-template
+A boilerplate for a new Typescript NodeJS application using the MVC design pattern.
+
+## Includes
+
+```
+* Relevant dependencies to run Typescript.
+* Linting with basic set of rules in place.
+* Basic npm scripts to run, build, lint etc.
+* Folder structure to support MVC with Respository pattern.
+```
